@@ -9,6 +9,7 @@ public class spiral_matrix_input_59 {
 	     int n = sc.nextInt();
 	     int[][] arr= generateMatrix(n);
 	     Display(arr);
+	     sc.close();
 	     
 	}
 	

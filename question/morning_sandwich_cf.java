@@ -16,7 +16,7 @@ public class morning_sandwich_cf {
 			}else {
 				System.out.println(br*2 -1);
 			}
-		}
+		}sc.close();
 	}
 
 }

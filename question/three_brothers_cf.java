@@ -8,6 +8,7 @@ public class three_brothers_cf {
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		System.out.println(6-(a+b));
-	}
+		sc.close();
 
+	}   
 }

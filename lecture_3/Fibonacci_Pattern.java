@@ -20,7 +20,8 @@ public class Fibonacci_Pattern {
 			a= b;
 			b= c;
 			
-		}
+			
+		}row++;
 		}sc.close();
 
 	}

@@ -11,8 +11,9 @@ public class Clock_Conversion_cf {
 		        for (int i = 0; i < t; i++) {  
 		            String s = scanner.nextLine();  
 		            System.out.println(convertTo12HourFormat(s));  
-		        }  
+		        }scanner.close();  
 		    }  
+				
 
 		    private static String convertTo12HourFormat(String time) {  
 		        String[] parts = time.split(":");  

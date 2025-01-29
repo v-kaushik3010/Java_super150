@@ -26,9 +26,9 @@ public class Wrapper_1 {
 //		Long l = 10l;
 //		Character ch = 'a';
 //		Boolean c= true; 
-		Integer b = a;
+//		Integer b = a;
 		
-		int x= a1;
+//		int x= a1;
 		Integer c1 = 18;
 		Integer c2 = 18;
 		Integer c3 = 181;
