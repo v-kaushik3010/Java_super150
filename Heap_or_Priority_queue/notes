@@ -1,0 +1,4 @@
+               | sorted array | unsorted  array| Heap     |
+add element    | O(n)         | O(1)           |log(n) + ?|
+min. remove    | O(n)         | O(n)           |log(n) + ?|
+get min.       | O(1)         | O(n)           |O(1)      |
