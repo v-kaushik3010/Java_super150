@@ -38,9 +38,7 @@ public class Set_Demo {
 			System.out.println(x+ " ");
 		}System.out.println();
 		
-		for(int x:set3 ) {
-			System.out.println(x+ " ");
-		}System.out.println();
+
 		
 		
 		//linkedhash set
@@ -52,6 +50,9 @@ public class Set_Demo {
 		set3.add(10);
 		set3.add(91);
 		System.out.println(set);
+		for(int x:set3 ) {
+			System.out.println(x+ " ");
+		}System.out.println();
 	}
 
 }
