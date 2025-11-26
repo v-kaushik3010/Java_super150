@@ -19,7 +19,7 @@ public class Graph_Valid_Tree {
 		public boolean BFT(HashMap<Integer, List<Integer>> map) {
 			Queue<Integer> q = new LinkedList<>();
 			HashSet<Integer> visited = new HashSet<>();
-			int c=0;
+			int c=0; // count of connected components
 			for (int src : map.keySet()) {
 				if (visited.contains(src)) {
 					continue;
